@@ -39,12 +39,12 @@ Researched answer: An instance variable is a member of an instance of a class bu
 
 ## Looking Ahead: Terms for Next Week
 
-1. PostgreSQL: PostgreSQL is an object-relational database management system (ORDBMS) based on POSTGRES, Version 4.2, developed at the University of California at Berkeley Computer Science Department. POSTGRES pioneered many concepts that only became available in some commercial database systems much later.
+1. PostgreSQL: PostgreSQL is an object-relational database management system and it was developed at the University of California at Berkeley Computer Science Department. 
 
-2. Ruby on Rails: Ruby on Rails is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages.
+2. Ruby on Rails: Ruby on Rails is a server-side web application framework written in Ruby. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages. Which I feel is like React
 
-3. ORM: Object–relational mapping in computer science is a programming technique for converting data between type systems using object-oriented programming languages. This creates, in effect, a "virtual object database" that can be used from within the programming language. 
+3. ORM: Object–relational mapping in computer science is a programming technique for converting data between type systems using object-oriented programming languages. 
 
-4. Active Record: Active Record is the M in MVC - the model - which is the layer of the system responsible for representing business data and logic. Active Record facilitates the creation and use of business objects whose data requires persistent storage to a database. It is an implementation of the Active Record pattern which itself is a description of an Object Relational Mapping system.
+4. Active Record: Active Record facilitates the creation and use of business objects whose data requires persistent storage to a database. It is an implementation of the Active Record pattern.
 
 5. Migrations: Migrations are a feature of Active Record that allows you to evolve your database schema over time. Rather than write schema modifications in pure SQL, migrations allow you to use a Ruby DSL to describe changes to your tables.
