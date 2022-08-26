@@ -48,3 +48,6 @@ Researched answer: An instance variable is a member of an instance of a class bu
 4. Active Record: Active Record facilitates the creation and use of business objects whose data requires persistent storage to a database. It is an implementation of the Active Record pattern.
 
 5. Migrations: Migrations are a feature of Active Record that allows you to evolve your database schema over time. Rather than write schema modifications in pure SQL, migrations allow you to use a Ruby DSL to describe changes to your tables.
+
+
+I hardly know what alot of this means. I know after we start Rails next week it will but I can't even put alot of it into my own words because I don't know what it even means.
